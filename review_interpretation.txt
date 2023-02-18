@@ -1,0 +1,38 @@
+boAt Rockerz 255 Pro+
+Amazon Product ASIN Code : B08TV2P1N8
+Average positive review = 0.49319
+Average negative review = 0.02843
+Average neutral review = 0.47837
+Compound average = 0.2929800000000001
+Positive Reviews = 68.0 %
+Negative Reviews = 8.0 %
+Neutral Reviews = 24.0 %
+
+boAt Stone 1200
+Amazon Product ASIN Code : B08PDGRR32
+Average positive review = 0.21368367346938777
+Average negative review = 0.07556122448979592
+Average neutral review = 0.7107653061224491
+Compound average = 0.29399591836734695
+Positive Reviews = 61.224489795918366 %
+Negative Reviews = 21.428571428571427 %
+
+boAt Flash
+Amazon Product ASIN Code : B0949SBKMP
+Average positive review = 0.37860000000000005
+Average negative review = 0.07885999999999999
+Average neutral review = 0.54254
+Compound average = 0.24006200000000003
+Positive Reviews = 62.0 %
+Negative Reviews = 17.0 %
+Neutral Reviews = 21.0 %
+
+boAt Rockerz 550
+Amazon Product ASIN Code : B0856HNLDK
+Average positive review = 0.30632352941176466
+Average negative review = 0.062455882352941174
+Average neutral review = 0.6312352941176472
+Compound average = 0.23551764705882364
+Positive Reviews = 54.411764705882355 %
+Negative Reviews = 10.294117647058824 %
+Neutral Reviews = 35.294117647058826 %
